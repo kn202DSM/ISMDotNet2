@@ -1,0 +1,12 @@
+D:\Projects\C#\ISMDotNet2\Task 7\bin\Debug\netcoreapp3.1\Task 7.exe
+D:\Projects\C#\ISMDotNet2\Task 7\bin\Debug\netcoreapp3.1\Task 7.deps.json
+D:\Projects\C#\ISMDotNet2\Task 7\bin\Debug\netcoreapp3.1\Task 7.runtimeconfig.json
+D:\Projects\C#\ISMDotNet2\Task 7\bin\Debug\netcoreapp3.1\Task 7.runtimeconfig.dev.json
+D:\Projects\C#\ISMDotNet2\Task 7\bin\Debug\netcoreapp3.1\Task 7.dll
+D:\Projects\C#\ISMDotNet2\Task 7\bin\Debug\netcoreapp3.1\Task 7.pdb
+D:\Projects\C#\ISMDotNet2\Task 7\obj\Debug\netcoreapp3.1\Task 7.AssemblyInfoInputs.cache
+D:\Projects\C#\ISMDotNet2\Task 7\obj\Debug\netcoreapp3.1\Task 7.AssemblyInfo.cs
+D:\Projects\C#\ISMDotNet2\Task 7\obj\Debug\netcoreapp3.1\Task 7.csproj.CoreCompileInputs.cache
+D:\Projects\C#\ISMDotNet2\Task 7\obj\Debug\netcoreapp3.1\Task 7.dll
+D:\Projects\C#\ISMDotNet2\Task 7\obj\Debug\netcoreapp3.1\Task 7.pdb
+D:\Projects\C#\ISMDotNet2\Task 7\obj\Debug\netcoreapp3.1\Task 7.genruntimeconfig.cache
